@@ -1,22 +1,13 @@
 ;;; <---- START of helfulADT1.scm ---->
 
-;;;+------------------------------------------------------------------------------------------------------------+
-;;;| ASSIGNMENT 2 - CMPT 383 - SUMMER 2019 																		|
-;;;| Instructor: Toby Donaldson																					|
-;;;| Author: Siddharth Gupta | SFU ID: 301327469																|
-;;;| Due-Date: June 5 2019																						|
-;;;|																											|
-;;;| IMPEMENTATION:																								|
-;;;| 	+ Created several helpful functions for the ADT implementation in "env1.scm"							|
-;;;|	+ Called them recursively in other functions.															|
-;;;|																											| 
-;;;| CITATIONS:																									|
-;;;|	- Assignment 2 description 	[ http://www.sfu.ca/~tjd/383summer2019/a2.html ]							|
-;;;|	- Course notes for Scheme on course home page [ http://www.sfu.ca/~tjd/383summer2019/index.html ]		|
-;;;|																											|
-;;;| NOTE:																										|
-;;;| 	- This file will be used as a module in (Q1) "env1.scm"													| 
-;;;+------------------------------------------------------------------------------------------------------------+
+;;;+------------------------------------------------------------------------------------+
+;;;| IMPEMENTATION:									|
+;;;| 	+ Created several helpful functions for the ADT implementation in "env1.scm"	|
+;;;|	+ Called them recursively in other functions.					|
+;;;|											| 
+;;;| NOTE:										|
+;;;| 	- This file will be used as a module in (Q1) "env1.scm"				| 
+;;;+------------------------------------------------------------------------------------+
 
 ;;; <---- Helpful ADT1 functions ---->
 
