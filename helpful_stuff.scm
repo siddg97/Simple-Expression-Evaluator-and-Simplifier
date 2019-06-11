@@ -6,7 +6,7 @@
 ;;;|	+ Called them recursively in other functions.						|
 ;;;|												|
 ;;;| NOTE:											|
-;;;| 	- This file will be used as a module in (Q2) "myeval.scm" and (Q3) "simplify.scm"	| 
+;;;| 	- This file will be used as a module in "myeval.scm" and "simplify.scm"	| 
 ;;;+--------------------------------------------------------------------------------------------+
 
 ;;; <--- Top-level format checking functions for expressions --->
