@@ -1,25 +1,17 @@
 ;;; <---- START : env1.scm ---->
 
 
-;;;+--------------------------------------------------------------------------------------------------------+
-;;;| ASSIGNMENT 2 - CMPT 383 - SUMMER 2019 																	|
-;;;| Instructor: Toby Donaldson																				|
-;;;| Author: Siddharth Gupta | SFU ID: 301327469															|
-;;;| Due-Date: June 5 2019																					|
-;;;|																										|
-;;;| IMPEMENTATION:																							|
-;;;| 	- Simple enviorment using list of 2-lists ADT														|
-;;;|	- Each enviornment variable is a 2 element list 													|
-;;;| 	- First elemnent of the list is name of var 														|
-;;;|	- Second element of the list is value of var 														|
-;;;|																										|
-;;;| CITATIONS:																								|
-;;;|	- Assignment 2 description [ http://www.sfu.ca/~tjd/383summer2019/a2.html ]							|
-;;;|	- Course notes for Scheme on course home page [ http://www.sfu.ca/~tjd/383summer2019/index.html ]	|
-;;;|																										|
-;;;| NOTES:																									|
-;;;| 	+ loading the file "helpfulADT1.scm" to acces helpful functions for ADT described above.			|
-;;;+--------------------------------------------------------------------------------------------------------+
+;;;+--------------------------------------------------------------------------------------------+																				|
+;;;|												|
+;;;| IMPEMENTATION:										|
+;;;| 	- Simple enviorment using list of 2-lists ADT						|
+;;;|	- Each enviornment variable is a 2 element list 					|
+;;;| 	- First elemnent of the list is name of var 						|
+;;;|	- Second element of the list is value of var 						|
+;;;|												|
+;;;| NOTES:											|
+;;;| 	+ loading the file "helpfulADT1.scm" to acces helpful functions for ADT described above.|
+;;;+--------------------------------------------------------------------------------------------+
 
 
 (load "helpfulADT1.scm")
