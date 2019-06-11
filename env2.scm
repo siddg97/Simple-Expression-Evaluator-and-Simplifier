@@ -1,23 +1,14 @@
 ;;; <---- START : env2.scm  ---->
-
-;;;+--------------------------------------------------------------------------------------------------------+
-;;;| ASSIGNMENT 2 - CMPT 383 - SUMMER 2019 																	|
-;;;| Instructor: Toby Donaldson																				|
-;;;| Author: Siddharth Gupta | SFU ID: 301327469															|
-;;;| Due-Date: June 5 2019																					|
-;;;|																										|
-;;;| IMPEMENTATION:																							|
-;;;| 	- Simple enviorment using dictionaries ADT using 2 concurrent lists									|
-;;;|	- Each enviornment variable is a an element in the first list at index i							|
-;;;| 	- The corresponding element at index i in the second list is the values of the enviornment variable |
-;;;|																										|
-;;;| CITATIONS:																								|
-;;;|	- Assignment 2 description [ http://www.sfu.ca/~tjd/383summer2019/a2.html ]							|
-;;;|	- Course notes for Scheme on course home page [ http://www.sfu.ca/~tjd/383summer2019/index.html ]	|
-;;;|																										|
-;;;| NOTES:																									|
-;;;| 	+ loading the file "helpfulADT2.scm" to acces helpful functions for ADT described above.
-;;;+--------------------------------------------------------------------------------------------------------+
+		|
+;;;+------------------------------------------------------------------------------------------------------------+
+;;;| IMPEMENTATION:												|
+;;;| 	- Simple enviorment using dictionaries ADT using 2 concurrent lists					|
+;;;|	- Each enviornment variable is a an element in the first list at index i				|
+;;;| 	- The corresponding element at index i in the second list is the values of the enviornment variable 	|
+;;;|														|
+;;;| NOTES:													|
+;;;| 	+ loading the file "helpfulADT2.scm" to acces helpful functions for ADT described above.		|
+;;;+------------------------------------------------------------------------------------------------------------+
 
 (load "helpfulADT2.scm")
 
