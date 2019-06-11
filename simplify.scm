@@ -1,22 +1,13 @@
 ;;; <---- START of simplify.scm ---->
 
 ;;;+------------------------------------------------------------------------------------------------------------------------------------+
-;;;| ASSIGNMENT 2 - CMPT 383 - SUMMER 2019 																								|
-;;;| Instructor: Toby Donaldson																											|
-;;;| Author: Siddharth Gupta | SFU ID: 301327469																						|
-;;;| Due-Date: June 5 2019																												|
-;;;|																																	|
-;;;| IMPEMENTATION:																														|
-;;;| 	+ Created several top-level checking functions to check the given simplyfying cases												|
-;;;|	+ Called them recursively in other functions.																					|
-;;;| 	+ (simplify expr) returns a simplified expression for expr 																		|
-;;;|																																	| 
-;;;| CITATIONS:																															|
-;;;|	- Assignment 2 description 	[ http://www.sfu.ca/~tjd/383summer2019/a2.html ]													|
-;;;|	- Course notes for Scheme on course home page [ http://www.sfu.ca/~tjd/383summer2019/index.html ]								|
-;;;|																																	|
-;;;| NOTE:																																|
-;;;| 	I am loading the file "helpful_stuff.scm" to get helpful functions for checking top-level expressions and simplifying them		|
+;;;| IMPEMENTATION:															|
+;;;| 	+ Created several top-level checking functions to check the given simplyfying cases						|
+;;;|	+ Called them recursively in other functions.											|
+;;;| 	+ (simplify expr) returns a simplified expression for expr 									|
+;;;|																	|
+;;;| NOTE:																|
+;;;| 	I am loading the file "helpful_stuff.scm" to get helpful functions for checking top-level expressions and simplifying them	|
 ;;;+------------------------------------------------------------------------------------------------------------------------------------+
 
 (load "helpful_stuff.scm")
