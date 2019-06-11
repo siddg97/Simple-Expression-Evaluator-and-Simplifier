@@ -6,7 +6,7 @@
 ;;;|	+ Called them recursively in other functions.					|
 ;;;|											| 
 ;;;| NOTE:										|
-;;;| 	- This file will be used as a module in (Q1) "env1.scm"				| 
+;;;| 	- This file will be used as a module in "env1.scm"				| 
 ;;;+------------------------------------------------------------------------------------+
 
 ;;; <---- Helpful ADT1 functions ---->
