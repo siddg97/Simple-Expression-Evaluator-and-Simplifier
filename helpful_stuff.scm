@@ -1,22 +1,13 @@
 ;;; <---- START of helful_stuff.scm ---->
 
-;;;+------------------------------------------------------------------------------------------------------------+
-;;;| ASSIGNMENT 2 - CMPT 383 - SUMMER 2019 																		|
-;;;| Instructor: Toby Donaldson																					|
-;;;| Author: Siddharth Gupta | SFU ID: 301327469																|
-;;;| Due-Date: Jun 5 2019																						|
-;;;|																											|
-;;;| IMPEMENTATION:																								|
-;;;| 	+ Created several top-level checking functions to check a given expression 								|
-;;;|	+ Called them recursively in other functions.															|
-;;;|																											| 
-;;;| CITATIONS:																									|
-;;;|	- Assignment 2 description 	[ http://www.sfu.ca/~tjd/383summer2019/a2.html ]							|
-;;;|	- Course notes for Scheme on course home page [ http://www.sfu.ca/~tjd/383summer2019/index.html ]		|
-;;;|																											|
-;;;| NOTE:																										|
-;;;| 	- This file will be used as a module in (Q2) "myeval.scm" and (Q3) "simplify.scm"						| 
-;;;+------------------------------------------------------------------------------------------------------------+
+;;;+--------------------------------------------------------------------------------------------+
+;;;| IMPEMENTATION:										|
+;;;| 	+ Created several top-level checking functions to check a given expression 		|
+;;;|	+ Called them recursively in other functions.						|
+;;;|												|
+;;;| NOTE:											|
+;;;| 	- This file will be used as a module in (Q2) "myeval.scm" and (Q3) "simplify.scm"	| 
+;;;+--------------------------------------------------------------------------------------------+
 
 ;;; <--- Top-level format checking functions for expressions --->
 
